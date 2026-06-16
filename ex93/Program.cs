@@ -1,5 +1,5 @@
-﻿int graos = 1;
-int total = 1;
+﻿double graos = 1;
+double total = 1;
 
 for (int i = 2; i <= 64; i++)
 {
@@ -9,4 +9,4 @@ for (int i = 2; i <= 64; i++)
 
 Console.WriteLine("Total de grãos: " + total);
 
-//
+//finalizado
