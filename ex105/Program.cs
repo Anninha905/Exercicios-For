@@ -1,14 +1,15 @@
 ﻿int a = 0;
 int b = 1;
-
-Console.Write(a + " " + b + " ");
+int c;
 
 for (int i = 3; i <= 20; i++)
 {
-    int c = a + b;
+    c = a + b;
 
-    Console.Write(c + " ");
+    Console.Write(c + ", ");
 
     a = b;
     b = c;
 }
+
+//finalizado

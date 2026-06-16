@@ -1,14 +1,16 @@
-﻿Console.Write("Primeiro número: ");
-int n1 = int.Parse(Console.ReadLine());
-
-Console.Write("Segundo número: ");
-int n2 = int.Parse(Console.ReadLine());
-
+﻿int num1, num2;
 int resultado = 0;
 
-for (int i = 1; i <= n2; i++)
+Console.Write("Digite o multiplicando: ");
+num1 = int.Parse(Console.ReadLine());
+Console.Write("Digite o multiplicador: ");
+num2 = int.Parse(Console.ReadLine());
+
+for (int i = 1; i <= num2; i++)
 {
-    resultado += n1;
+    resultado += num1;
 }
 
-Console.WriteLine("Resultado = " + resultado);
+Console.WriteLine($"{num1} x {num2} = {resultado}");
+
+//finalizado

@@ -1,10 +1,10 @@
 ﻿int soma = 0;
-int maior = int.Parse(Console.ReadLine());
-int menor = int.Parse(Console.ReadLine());
+int maior = 0;
+int menor = 0;
 
 for (int i = 1; i <= 10; i++)
 {
-    Console.Write("Digite um número: ");
+    Console.Write("Digite um número qualquer: ");
     int numero = int.Parse(Console.ReadLine());
 
     soma += numero;
@@ -16,6 +16,8 @@ for (int i = 1; i <= 10; i++)
         menor = numero;
 }
 
-Console.WriteLine("Média: " + soma / 10.0);
-Console.WriteLine("Maior: " + maior);
-Console.WriteLine("Menor: " + menor);
+Console.WriteLine("A Média do número é: " + soma / 10.0);
+Console.WriteLine("O Maior número é: " + maior);
+Console.WriteLine("O Menor número é: " + menor);
+
+//finalizado

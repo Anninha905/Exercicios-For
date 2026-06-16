@@ -1,8 +1,10 @@
-﻿double produto = 1;
+﻿int produto = 1;
 
 for (int i = 1; i <= 15; i += 2)
 {
     produto *= i;
 }
 
-Console.WriteLine("Produto = " + produto);
+Console.WriteLine($"O Produto é igual a {produto}");
+
+//finalizado

@@ -9,6 +9,6 @@ for (int i = 85; i <= 907; i++)
     }
 }
 
-Console.WriteLine("A Soma dos valores é: " + soma);
+Console.WriteLine($"A Soma dos valores é: {soma}");
 
 //finalizado

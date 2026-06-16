@@ -16,6 +16,6 @@ for (int i = 2; i <= N; i++)
     }
 }
 
-Console.WriteLine("Valor de A = " + A);
+Console.WriteLine($"Valor de A é {A}");
 
 //finalizado

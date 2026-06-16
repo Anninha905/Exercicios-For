@@ -7,6 +7,6 @@ for (int i = 2; i <= 64; i++)
     total += graos;
 }
 
-Console.WriteLine("Total de grãos: " + total);
+Console.WriteLine($"Total de grãos: {total}");
 
 //finalizado
