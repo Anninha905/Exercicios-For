@@ -1,0 +1,20 @@
+<Solution>
+  <Project Path="ex100/ex100.csproj" />
+  <Project Path="ex101/ex101.csproj" />
+  <Project Path="ex102/ex102.csproj" />
+  <Project Path="ex103/ex103.csproj" />
+  <Project Path="ex104/ex104.csproj" />
+  <Project Path="ex105/ex105.csproj" />
+  <Project Path="ex88/ex88.csproj" />
+  <Project Path="ex89/ex89.csproj" />
+  <Project Path="ex90/ex90.csproj" />
+  <Project Path="ex91/ex91.csproj" />
+  <Project Path="ex92/ex92.csproj" />
+  <Project Path="ex93/ex93.csproj" />
+  <Project Path="ex94/ex94.csproj" />
+  <Project Path="ex95/ex95.csproj" />
+  <Project Path="ex96/ex96.csproj" />
+  <Project Path="ex97/ex97.csproj" />
+  <Project Path="ex98/ex98.csproj" />
+  <Project Path="ex99/ex99.csproj" />
+</Solution>
